@@ -1,0 +1,4 @@
+== ActiveRecord Assessment
+
+An assessment on db modeling, joins, queries, etc.
+
